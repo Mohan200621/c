@@ -3,6 +3,7 @@
 int main()
 {
 int fan1,fan2,fan3,fan4;
+    printf("Enter 1 if person is there");
 printf("Enter fan1:");
 scanf("%d",&fan1);
 //fan1 start
